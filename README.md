@@ -6,7 +6,7 @@ Perkenalkan nama saya **Habib Akbar Wibowo**.
 
 Saya seorang **Mahasiswa** di [Universitas Dian Nuswantoro](https://dinus.ac.id/mahasiswa/A11.2019.12277/).
 
-Saya Sedang Belajar di [MSIB].
+Saya lulusan [MSIB] Dicoding academy tahun 2021.
 
 Saya tertarik dengan [Android Developer dan Fotografi].
 
@@ -27,9 +27,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
-<a href="https://github.com/Habibakbar28">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
