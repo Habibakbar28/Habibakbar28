@@ -4,13 +4,10 @@
 
 Perkenalkan nama saya **Habib Akbar Wibowo**.
 
-Saya seorang **Mahasiswa** di [Universitas Dian Nuswantoro](https://dinus.ac.id/mahasiswa/A11.2019.12277/).
+Saya seorang **Fresh Graduate** di [Universitas Dian Nuswantoro](https://dinus.ac.id/mahasiswa/A11.2019.12277/).
 
 Saya lulusan [MSIB] Dicoding academy tahun 2021.
 
-Saya tertarik dengan [Android Developer dan Fotografi].
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/hbibakbr//)ku ya.
 
 <!--
 **Habibakbar28/Habibakbar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
